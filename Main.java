@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+
+/**
+ * The code is for a simple converter.
+ * Converting measuring units from metric to imperial and vice-versa
+ * Mark Winfred A. Turco
+ */
+
 public class Main {
 
     public static void main(String[] args){
